@@ -2,7 +2,6 @@
 
 keyboard-driven terminal user interface (TUI) portfolio that brings a personal resume straight into the terminal. built with **go** and the **bubble tea** ecosystem, incorporating ASCII text art.
 
----
 
 ## features
 
@@ -10,28 +9,34 @@ keyboard-driven terminal user interface (TUI) portfolio that brings a personal r
 *   **multi-page view:** swap between a technical overview and my personal projects.
 *   **project carousel:** interactive project selector wiith embedded links.
 
----
 
 ## interface previews
 
-![terminal portfolio demo](docs/images/demo-gif.gif)
+<p align="center">
+  <img src="docs/images/demo-gif.gif" alt="terminal portfolio demo" width="60%">
+</p>
 
 ### 1. main hub
 landing view showcasing custom ASCII text art.
 
-![main hub view](docs/images/home_menu.png)
+<p align="center">
+  <img src="docs/images/home_menu.gif" alt="terminal portfolio demo" width="30%">
+</p>
 
 ### 2. Technical Profile & Experience View
 core technical stack capabilities and architecture focuses.
 
-![technical bio view](docs/images/tech_bio.png)
+<p align="center">
+  <img src="docs/images/tech_bio.gif" alt="terminal portfolio demo" width="30%">
+</p>
 
 ### 3. Pinned Projects Showcase
 carousel module allowing viewers to navigate through projects with immediate sub-details.
 
-![project showcase view](docs/images/projects.png)
+<p align="center">
+  <img src="docs/images/projects.gif" alt="terminal portfolio demo" width="30%">
+</p>
 
----
 
 ## terminal controls
 
