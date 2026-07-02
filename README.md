@@ -16,9 +16,9 @@ keyboard-driven terminal user interface (TUI) portfolio that brings a personal r
   <img src="docs/images/demo-gif.gif" alt="terminal portfolio demo" width="60%">
 </p>
 
-**1. main hub:** landing view showcasing custom ASCII text art.
-**2. technical profile:** core technical stack capabilities and architecture focuses.
-**3. pinned projects:** carousel module allowing viewers to navigate through projects with immediate sub-details.
+**1. main hub:** landing view showcasing custom ASCII text art.  
+**2. technical profile:** core technical stack capabilities and architecture focuses.  
+**3. pinned projects:** carousel module allowing viewers to navigate through projects with immediate sub-details.  
 
 <p align="center">
   <img src="docs/images/home_menu.png" alt="main hub view" width="30%" style="border: 1px solid #333; margin: 10px;">
